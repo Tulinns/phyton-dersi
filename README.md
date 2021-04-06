@@ -1,1 +1,2 @@
 # phyton-dersi
+Hi everyone!
